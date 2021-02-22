@@ -9,4 +9,4 @@ Purpose of this project is -at first- to **analyse the techniques currently empl
 in literature for credit risk analysis, and -at a subsequent stage- to propose and **implement an
 enhanced technique** -by leveraging on those already defined
 
-[![Watch the video](C:\Users\benja\OneDrive\Images\Screens\scoring.png)](https://youtu.be/cJO5uSCroUo)
+[![Watch the video]](https://youtu.be/cJO5uSCroUo)
