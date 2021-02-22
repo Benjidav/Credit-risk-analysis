@@ -10,7 +10,6 @@ in literature for credit risk analysis, and -at a subsequent stage- to propose a
 enhanced technique** -by leveraging on those already defined and/or by applying data analysis
 methods- that could improve the credit risk analysis task.
 
-To watch an overview of the Credit scoring model, **click on the picture below**
 To get to know the details of the credit risk analysis, click on the file *Report*.
 
 To watch an overview of the Credit scoring model, **click on the picture below**. 
