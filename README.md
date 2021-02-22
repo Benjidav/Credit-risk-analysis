@@ -9,6 +9,8 @@ Purpose of this project is -at first- to **analyse the techniques currently empl
 in literature for credit risk analysis, and -at a subsequent stage- to propose and **implement an
 enhanced technique** -by leveraging on those already defined.
 
-To watch an overview of the Credit scoring model, **click on the picture below**
+To get to know the details of the credit risk analysis, click on the file *Report*.
+
+To watch an overview of the Credit scoring model, **click on the picture below**. 
 
 [![Watch the video](title.PNG)](https://youtu.be/cJO5uSCroUo)
