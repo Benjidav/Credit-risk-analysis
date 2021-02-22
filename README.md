@@ -7,6 +7,8 @@ counterpart, by estimate three main parameters : Exposure at Default **(EAD)**, 
 Default **(LGD)** and Probability of Default **(PD)**.
 Purpose of this project is -at first- to **analyse the techniques currently employed** and available
 in literature for credit risk analysis, and -at a subsequent stage- to propose and **implement an
-enhanced technique** -by leveraging on those already defined
+enhanced technique** -by leveraging on those already defined.
+
+To watch an overview of the Credit scoring model, **click on the picture below**
 
 [![Watch the video](title.PNG)](https://youtu.be/cJO5uSCroUo)
