@@ -14,4 +14,4 @@ To get to know the details of the credit risk analysis, click on the file *Repor
 
 To watch an overview of the Credit scoring model, **click on the picture below**. 
 
-[![Watch the video](title.PNG)](https://youtu.be/cJO5uSCroUo)
+[![Watch the video](title.PNG)](https://drive.google.com/file/d/1karJgmE_o9pNSo1WO500KzNcNMLwJQK4/view?usp=sharing)
